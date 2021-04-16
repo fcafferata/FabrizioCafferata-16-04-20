@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Miniproject">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 813170915 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Customer Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Payment,Invoice,Credit Memo,Finance Charge Memo,Reminder,Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 673684564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Related G/L Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Related G/L Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 813170915 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MP G/L Customer Entry - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Customer Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Source No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 2363328873 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Document Type field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Document Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 673684564 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Related G/L Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Related G/L Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Control 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Source Code field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Control Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1888498585 - Action 3614118165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MP G/L Customer Entries - Action Import Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2274445690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MP Import Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2274445690 - NamedType 672599587" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify a valid date range for this process.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MP Import Records - NamedType Txt001</note>
+        </trans-unit>
+        <trans-unit id="Report 2274445690 - Control 3606806740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No. Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MP Import Records - Control CustNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2274445690 - Control 30259774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date From</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MP Import Records - Control DateFrom - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2274445690 - Control 1537575777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MP Import Records - Control DateTo - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
